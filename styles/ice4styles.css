@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    font-size: 18px;
+    font-family: 'cormorant garamond', serif;
+    background-color: #5ca1d7;
+}
+main{
+    margin: 0 auto;
+    text-align: center;
+}
+p{
+    color: white;
+}
+.boldparagraph{
+    font-weight: 700;
+}
+ol{
+    text-align: 0;
+}
+li{
+    font-weight: 700;
+    display: table;
+    margin: 0 auto;
+}
+img{
+    width: 20%;
+}
+blockquote{
+    color: white;
+    font-size: 1.5em;
+    width: 230px;
+    margin: auto;
+}
+figcaption{
+    margin: auto;
+    font-size: 15px;
+}
+.title{
+    margin: auto;
+    color: black;
+    width: 300px;
+    font-size: 15px;
+}
