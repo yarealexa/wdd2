@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+.card{
+    width: 250px;
+    margin: 0 auto;
+    border-radius: 25px;
+    background-color: white;
+}
+.bridge{
+    width: 100%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.paragraph{
+    text-align: center;
+    padding: 10%;
+}
+footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: #4059AD;
+    padding: 10%;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.one{
+    text-align: center;
+    font-size: small;
+    grid-column: 1/2;
+}
+.two{
+    text-align: center;
+    font-size: small;
+    grid-column: 2/3;
+}
+.third{
+    text-align: center;
+    font-size: small;
+    grid-column: 3/4;
+}
