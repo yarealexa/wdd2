@@ -201,7 +201,13 @@ footer .social img{
     grid-row: 5/8;
     box-shadow: 5px 5px 10px #6f7364;
 }
-
+.booking{
+    text-align: left;
+}
+.booktwo{
+    font-weight: 1000px;
+    color: #0B2027;
+}
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
